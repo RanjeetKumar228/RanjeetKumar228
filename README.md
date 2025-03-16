@@ -7,7 +7,3 @@
 - 😄 Pronouns: Jeet😎
 - ⚡ Fun fact: I started coding when I was 2 year of college.
 
-<!---
-RanjeetKumar228/RanjeetKumar228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
